@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.81dc3600.css",
-    "main.js": "/static/js/main.d552cecf.js",
-    "static/js/787.6590ed76.chunk.js": "/static/js/787.6590ed76.chunk.js",
-    "static/media/boxicons.svg": "/static/media/boxicons.045b05bf2dc119267a90.svg",
-    "static/media/boxicons.eot": "/static/media/boxicons.092b78589f3f53e60030.eot",
-    "static/media/boxicons.woff": "/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
-    "static/media/boxicons.ttf": "/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
-    "static/media/boxicons.woff2": "/static/media/boxicons.8d765747a5588f36ff61.woff2",
-    "index.html": "/index.html",
-    "main.81dc3600.css.map": "/static/css/main.81dc3600.css.map",
-    "main.d552cecf.js.map": "/static/js/main.d552cecf.js.map",
-    "787.6590ed76.chunk.js.map": "/static/js/787.6590ed76.chunk.js.map"
+    "main.css": "/crm-app/static/css/main.d75196cc.css",
+    "main.js": "/crm-app/static/js/main.6988a225.js",
+    "static/js/787.6590ed76.chunk.js": "/crm-app/static/js/787.6590ed76.chunk.js",
+    "static/media/boxicons.svg": "/crm-app/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/boxicons.eot": "/crm-app/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/crm-app/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/crm-app/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/crm-app/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "index.html": "/crm-app/index.html",
+    "main.d75196cc.css.map": "/crm-app/static/css/main.d75196cc.css.map",
+    "main.6988a225.js.map": "/crm-app/static/js/main.6988a225.js.map",
+    "787.6590ed76.chunk.js.map": "/crm-app/static/js/787.6590ed76.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.81dc3600.css",
-    "static/js/main.d552cecf.js"
+    "static/css/main.d75196cc.css",
+    "static/js/main.6988a225.js"
   ]
 }
