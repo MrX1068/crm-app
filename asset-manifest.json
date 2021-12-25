@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mrx1068.github.io/crm-app/static/css/main.84f90adb.css",
-    "main.js": "/mrx1068.github.io/crm-app/static/js/main.b6445d4f.js",
-    "static/js/787.6590ed76.chunk.js": "/mrx1068.github.io/crm-app/static/js/787.6590ed76.chunk.js",
-    "static/media/tuat.png": "/mrx1068.github.io/crm-app/static/media/tuat.7ec76cec74c67204b4fc.png",
-    "static/media/boxicons.svg": "/mrx1068.github.io/crm-app/static/media/boxicons.045b05bf2dc119267a90.svg",
-    "static/media/boxicons.eot": "/mrx1068.github.io/crm-app/static/media/boxicons.092b78589f3f53e60030.eot",
-    "static/media/boxicons.woff": "/mrx1068.github.io/crm-app/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
-    "static/media/boxicons.ttf": "/mrx1068.github.io/crm-app/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
-    "static/media/boxicons.woff2": "/mrx1068.github.io/crm-app/static/media/boxicons.8d765747a5588f36ff61.woff2",
-    "index.html": "/mrx1068.github.io/crm-app/index.html",
-    "main.84f90adb.css.map": "/mrx1068.github.io/crm-app/static/css/main.84f90adb.css.map",
-    "main.b6445d4f.js.map": "/mrx1068.github.io/crm-app/static/js/main.b6445d4f.js.map",
-    "787.6590ed76.chunk.js.map": "/mrx1068.github.io/crm-app/static/js/787.6590ed76.chunk.js.map"
+    "main.css": "/crm-app/static/css/main.6dba83dc.css",
+    "main.js": "/crm-app/static/js/main.450e2151.js",
+    "static/js/787.6590ed76.chunk.js": "/crm-app/static/js/787.6590ed76.chunk.js",
+    "static/media/tuat.png": "/crm-app/static/media/tuat.7ec76cec74c67204b4fc.png",
+    "static/media/boxicons.svg": "/crm-app/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/boxicons.eot": "/crm-app/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/crm-app/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/crm-app/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/crm-app/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "index.html": "/crm-app/index.html",
+    "main.6dba83dc.css.map": "/crm-app/static/css/main.6dba83dc.css.map",
+    "main.450e2151.js.map": "/crm-app/static/js/main.450e2151.js.map",
+    "787.6590ed76.chunk.js.map": "/crm-app/static/js/787.6590ed76.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84f90adb.css",
-    "static/js/main.b6445d4f.js"
+    "static/css/main.6dba83dc.css",
+    "static/js/main.450e2151.js"
   ]
 }
