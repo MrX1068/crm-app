@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.98374c34.css",
-    "main.js": "/static/js/main.07aaf73c.js",
-    "static/js/787.6590ed76.chunk.js": "/static/js/787.6590ed76.chunk.js",
-    "static/media/tuat.png": "/static/media/tuat.7ec76cec74c67204b4fc.png",
-    "static/media/boxicons.svg": "/static/media/boxicons.045b05bf2dc119267a90.svg",
-    "static/media/boxicons.eot": "/static/media/boxicons.092b78589f3f53e60030.eot",
-    "static/media/boxicons.woff": "/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
-    "static/media/boxicons.ttf": "/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
-    "static/media/boxicons.woff2": "/static/media/boxicons.8d765747a5588f36ff61.woff2",
-    "index.html": "/index.html",
-    "main.98374c34.css.map": "/static/css/main.98374c34.css.map",
-    "main.07aaf73c.js.map": "/static/js/main.07aaf73c.js.map",
-    "787.6590ed76.chunk.js.map": "/static/js/787.6590ed76.chunk.js.map"
+    "main.css": "/mrx1068.github.io/crm-app/static/css/main.84f90adb.css",
+    "main.js": "/mrx1068.github.io/crm-app/static/js/main.f0f0389d.js",
+    "static/js/787.6590ed76.chunk.js": "/mrx1068.github.io/crm-app/static/js/787.6590ed76.chunk.js",
+    "static/media/tuat.png": "/mrx1068.github.io/crm-app/static/media/tuat.7ec76cec74c67204b4fc.png",
+    "static/media/boxicons.svg": "/mrx1068.github.io/crm-app/static/media/boxicons.045b05bf2dc119267a90.svg",
+    "static/media/boxicons.eot": "/mrx1068.github.io/crm-app/static/media/boxicons.092b78589f3f53e60030.eot",
+    "static/media/boxicons.woff": "/mrx1068.github.io/crm-app/static/media/boxicons.0f4528cf3c75a4b361c0.woff",
+    "static/media/boxicons.ttf": "/mrx1068.github.io/crm-app/static/media/boxicons.cbd149c55e2396cb52e7.ttf",
+    "static/media/boxicons.woff2": "/mrx1068.github.io/crm-app/static/media/boxicons.8d765747a5588f36ff61.woff2",
+    "index.html": "/mrx1068.github.io/crm-app/index.html",
+    "main.84f90adb.css.map": "/mrx1068.github.io/crm-app/static/css/main.84f90adb.css.map",
+    "main.f0f0389d.js.map": "/mrx1068.github.io/crm-app/static/js/main.f0f0389d.js.map",
+    "787.6590ed76.chunk.js.map": "/mrx1068.github.io/crm-app/static/js/787.6590ed76.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98374c34.css",
-    "static/js/main.07aaf73c.js"
+    "static/css/main.84f90adb.css",
+    "static/js/main.f0f0389d.js"
   ]
 }
